@@ -1,2 +1,15 @@
 Hi this is a demo text file
 And adding an extra line for testing purpose.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Changes made in the sample branch.
